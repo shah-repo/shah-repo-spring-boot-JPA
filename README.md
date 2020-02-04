@@ -1,2 +1,2 @@
-# shah-repo-spring-boot-JPA
+# spring-boot-JPA
 Assignement of spring boot with JPA
